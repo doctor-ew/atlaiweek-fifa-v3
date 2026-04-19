@@ -15,3 +15,7 @@ next-env.d.ts
 
 # misc
 .DS_Store
+
+# tooling
+.claude/
+.gstack/
